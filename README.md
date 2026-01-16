@@ -20,6 +20,7 @@ This is a simple Hangman game implemented in Python. The player tries to guess a
 
  ### Technologies used-
  - Python
+ - IDE: VS Code
  - Concepts: random module, loops, conditionals, strings, lists
 
 ## Task 2- Basic Chatbot
@@ -45,5 +46,6 @@ The chatbot can be easily extended by adding more predefined inputs and response
 
 ### Technologies used-
 - Python
+- IDE: VS Code
 - Concepts: input/output, if-elif-else conditions, functions
 
