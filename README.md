@@ -4,7 +4,7 @@ Internship: CodeAlpha
 Duration: 10 January 2026 - 10 February 2026
 This repository contains all tasks completed during my codeAlpha Internship.
 ## Task 1- Hangman Game
-### Descrption-
+### Description-
 This is a simple Hangman game implemented in Python. The player tries to guess a randomly selected word one letter at a time. Each incorrect guess reduces the number of remaining attempts, and the game ends when the word is guessed correctly or attempts run out.
 
 ### Features-
@@ -19,8 +19,8 @@ This is a simple Hangman game implemented in Python. The player tries to guess a
 5. Simple text-based interface for easy interaction.
 
  ### Technologies used-
- -Python
- -Concepts: random module, loops, conditionals, strings, lists
+ - Python
+ - Concepts: random module, loops, conditionals, strings, lists
 
 
 
