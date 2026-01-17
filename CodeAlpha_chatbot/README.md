@@ -1,20 +1,23 @@
-## Task 1- Hangman Game
-
+## Task 3- Basic Chatbot
 ### Description-
-This is a simple Hangman game implemented in Python. The player tries to guess a randomly selected word one letter at a time. Each incorrect guess reduces the number of remaining attempts, and the game ends when the word is guessed correctly or attempts run out.
+This project is a simple rule-based chatbot implemented in Python. The chatbot is designed to interact with users through basic text input and provide predefined responses. The chatbot continuously prompts the user for input and can handle common conversational phrases like greetings, asking about the bot’s state, or saying goodbye. This project demonstrates fundamental programming concepts such as functions, loops, and input/output handling, making it an excellent exercise for beginners to practice logical flow in Python. The chatbot can be easily extended by adding more predefined inputs and responses, or by integrating additional features like small talk or keyword matching.
 
 ### Features-
-- Random word selection from a predefined list.
+- Rule-Based Responses: Responds to predefined user inputs such as "hello", "how are you", "bye".
 
-- Player guesses one letter at a time.
+- Interactive Loop: Keeps the conversation running until the user decides to exit.
 
-- Displays current progress of the word (e.g., _ a _ _ m a n).
+- Function-Based Design: Uses functions to organize code and handle responses efficiently.
 
-- Shows the number of incorrect attempts left.
+- Input Handling: Accepts user input through the console and evaluates it using conditional statements.
 
-- Simple text-based interface for easy interaction.
+- Default Response: For unrecognized input, provides a default message such as "I didn't understand that."
+
+- Beginner-Friendly Logic: Demonstrates key programming concepts including loops, conditional statements, and functions.
+
+- Easily Extensible: New phrases and responses can be added without changing the main structure of the program.
 
 ### Technologies used-
 - Python
 - IDE: VS Code
-- Concepts: random module, loops, conditionals, strings, lists
+- Concepts: input/output, if-elif-else conditions, functions
