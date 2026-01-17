@@ -50,7 +50,7 @@ The chatbot can be easily extended by adding more predefined inputs and response
 - Concepts: input/output, if-elif-else conditions, functions
 
 ## Task 3- Stock Portfolio Tracker
-### Descrption-
+### Description-
 This is a stock portfolio tracker built in Python.
 It allows users to calculate their total investment based on manually defined stock prices or by reading stock prices from a .txt file. Users can input stock names and quantities, and the program calculates and displays the total investment value. Optionally, investment details can be saved to a .txt file.
 
@@ -70,17 +70,7 @@ It allows users to calculate their total investment based on manually defined st
 ### Technologies used-
 - Python
 - IDE: VS Code
-- Concepts: Dictionary (dict)
-
-            Loops (while)
-
-            Conditional statements (if, else)
-
-            Basic arithmetic operations
-
-            Input/output (input(), print())
-
-            File handling ( write(), append())
+- Concepts: Dictionary (dict), Loops (while), Conditional statements (if, else), Basic arithmetic operations, Input/output (input(), print()),File handling ( write(), append())
 
 
 
